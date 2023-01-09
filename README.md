@@ -1,5 +1,6 @@
 # ViSE
 Code accompanying the paper ViSE: Vision-Based Real-Time 3D Shape Estimation of Continuously Deformable Robots.
+
 <img src="figures/readme_images/fig1.png" alt="ViSE Pipeline" width="360">
 
 ## Requirements and Installation
