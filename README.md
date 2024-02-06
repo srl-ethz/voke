@@ -9,7 +9,7 @@ Estimation errors **with respect to the corresponding robot's length**
 
 |                                   | Estimation Technique.        | Number of Cameras | Robot Type  | Robot Length (mm) | Tip Error     |
 | --------------------------------: | :--------------------------: | :---------------: | :---------: | :---------------: | :-----------: |
-| **ViSE (ours)**                   | CNN                          | 2                 | WaxCast arm | 335               | **0.4%±0.3%** |
+| **ViSE (ours)**                   | CNN                          | 2                 | WaxCast arm | 335               | **0.3%±0.2%** |
 | **ViSE (ours)**                   | CNN                          | 2                 | SoPrA       | 270               | **1.1%±0.6%** |
 | **ViSE (ours)**                   | CNN                          | 2                 | Soft fish   | 115               | **2.8%±2.3%** |
 | [Camarillo et al.](https://ieeexplore.ieee.org/abstract/document/4543656)                  | 2D point-cloud fit           | 3                 | Soft arm    | 160               | 4.8%          |
@@ -21,3 +21,7 @@ Estimation errors **with respect to the corresponding robot's length**
 
 ## Requirements and Installation
 The repo was written using *Python 3.8* with [`conda`](https://github.com/JacopoPan/a-minimalist-guide#install-conda) on *Ubuntu 20.04*
+
+## Datasets
+For an easy start, you can download our processed dataset on three different types of soft robots from [Google Drive](https://drive.google.com/drive/folders/1Rl2JSU4wbkHnazaM6Fxq8iWYGbndd91i?usp=sharing)
+
