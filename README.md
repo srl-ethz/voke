@@ -1,4 +1,4 @@
-# VOKE
+# Vision-Based Online Key Point Estimation of Deformable Robots
 Code accompanying the paper Vision-Based Online Key Point Estimation of Deformable Robots.
 
 
