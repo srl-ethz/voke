@@ -9,9 +9,9 @@ Estimation errors **with respect to the corresponding robot's length**
 
 |                                   | Estimation Technique.        | Number of Cameras | Robot Type  | Robot Length (mm) | Tip Error     |
 | --------------------------------: | :--------------------------: | :---------------: | :---------: | :---------------: | :-----------: |
-| **ViSE (ours)**                   | CNN                          | 2                 | WaxCast arm | 335               | **0.3%±0.2%** |
-| **ViSE (ours)**                   | CNN                          | 2                 | SoPrA       | 270               | **0.5%±0.4%** |
-| **ViSE (ours)**                   | CNN                          | 2                 | Soft fish   | 115               | **0.6%±0.6%** |
+| **VOKE (ours)**                   | CNN                          | 2                 | WaxCast arm | 335               | **0.3%±0.2%** |
+| **VOKE (ours)**                   | CNN                          | 2                 | SoPrA       | 270               | **0.5%±0.4%** |
+| **VOKE (ours)**                   | CNN                          | 2                 | Soft fish   | 115               | **0.6%±0.6%** |
 | [Camarillo et al.](https://ieeexplore.ieee.org/abstract/document/4543656)                  | 2D point-cloud fit           | 3                 | Soft arm    | 160               | 4.8%          |
 | [Vandini et al.](https://ieeexplore.ieee.org/abstract/document/7913726)                    | Line feature detector        | 1                 | Soft arm    | 260               | 2.8%          |
 | [Pedari et al.](https://ieeexplore.ieee.org/abstract/document/9071908)                     | LED light placement          | 2                 | Soft arm    | 468\*               | 4.5%          |
