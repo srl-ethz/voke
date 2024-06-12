@@ -23,5 +23,7 @@ Estimation errors **with respect to the corresponding robot's length**
 The repo was written using *Python 3.8* with [`conda`](https://github.com/JacopoPan/a-minimalist-guide#install-conda) on *Ubuntu 20.04*
 
 ## Datasets
-For an easy start, you can download our processed dataset on three different types of soft robots from [Google Drive](https://drive.google.com/drive/folders/1Rl2JSU4wbkHnazaM6Fxq8iWYGbndd91i?usp=sharing)
+For an easy start, you can download our processed dataset on three different types of soft robots from [Google Drive](https://drive.google.com/drive/folders/1Rl2JSU4wbkHnazaM6Fxq8iWYGbndd91i?usp=sharing).
+
+To run with our example python code in [python](python/), specify `--dataset_folder` and `--label_folder` in config.py to the path where the preprocessed data is stored.
 
