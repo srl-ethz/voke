@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Zheng
+    given-names: Hehui
+    orcid: https://orcid.org/0000-0002-4977-0220
+  - family-names: Pinzello
+    given-names: Sebastian
+  - family-names: Cangan
+    given-names: Barnabas Gavin
+    orcid: https://orcid.org/0000-0001-7810-6620
+  - family-names: Buchner
+    given-names: Thomas J. K.
+    orcid: https://orcid.org/0000-0003-0254-811X
+  - family-names: Katzschmann
+    given-names: Robert K.
+    orcid: https://orcid.org/0000-0001-7143-7259
+title: "Code accompanying the paper Vision-Based Online Key Point Estimation of Deformable Robots."
+version: 0.0.1
+identifiers:
+  - type: doi
+    value: 10.3929/ethz-b-000678014
+date-released: 2024-06-14
