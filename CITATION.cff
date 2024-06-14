@@ -16,7 +16,6 @@ authors:
     given-names: Robert K.
     orcid: https://orcid.org/0000-0001-7143-7259
 title: "Code accompanying the paper Vision-Based Online Key Point Estimation of Deformable Robots."
-version: 0.0.1
 identifiers:
   - type: doi
     value: 10.3929/ethz-b-000678014
